@@ -1,4 +1,4 @@
-### React.js+Node.js 기반의 풀스택 공부를 위한 Git 리포지터리 입니다.
+### React.js+Node.js 기반의 풀스택 공부를 위한 Git입니다.
 
 <!--
 **feat630/feat630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
